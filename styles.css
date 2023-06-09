@@ -1,0 +1,14 @@
+li{
+    outline: 5px solid rgb(220, 144, 31);
+   max-height: 400px;
+    overflow: scroll;
+    margin: 30px auto;
+}
+
+#feed-list{
+    padding: 0;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+  }
